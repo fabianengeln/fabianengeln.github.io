@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang='en-uk'>
+    <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Contact - Fabian Engeln</title>
+    <meta name="author" content="Fabian Engeln" />
+    <meta name="generator" content="Hugo 0.97.3" /><link rel="stylesheet" href="http://example.com/css/styles.min.4c58a565434d8f4382d7fe512472dd61e43ceadd6572ca4e3296628aa3900331.css" integrity="sha256-TFilZUNNj0OC1/5RJHLdYeQ86t1lcspOMpZiiqOQAzE=">
+    </head>
+    <body class="flex flex-col min-h-screen"><header>
+
+<style>
+@media (min-width: 1024px) {
+  .top-navbar {
+    display: inline-flex !important;
+  }
+</style>
+
+<nav class="flex items-center bg-white p-3 flex-wrap border-b rounded border-gray-200 px-2 sm:px-4 py-2.5 top-0">
+      <a href="/" class="p-2 mr-4 inline-flex items-center">
+        <span class="text-xl text-black font-bold uppercase tracking-wide">Fabian Engeln</span>
+      </a>
+    
+	<button class="text-gray-600 inline-flex p-3 hover:bg-gray-200 rounded lg:hidden ml-auto hover:text-gray-800 outline-none nav-toggler" data-target="#navigation">
+	<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8h16M4 16h16" />
+	</svg>
+      </button>
+      <div class="hidden top-navbar w-full lg:inline-flex lg:flex-grow lg:w-auto" id="navigation">
+        <div class="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto">
+		  
+          <a href="/blog/" class="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-gray-600 font-bold items-center justify-center hover:text-blue">
+            <span>Blog</span>
+          </a>
+          
+          <a href="/contact/" class="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-gray-600 font-bold items-center justify-center hover:text-blue">
+            <span>Contact</span>
+          </a>
+          
+        </div>
+      </div>
+    </nav>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
+<script>
+  $(document).ready(function() {
+  $(".nav-toggler").each(function(_, navToggler) {
+    var target = $(navToggler).data("target");
+    $(navToggler).on("click", function() {
+      $(target).animate({
+        height: "toggle"
+      });
+    });
+  });
+});
+
+</script>
+</header><main class="flex-1 mx-4 md:mx-8 lg:mx-8 mt-4 sm:mt-8">
+    
+
+
+<div class="flex items-center min-h-screen">
+    <div class="container mx-auto">
+        <div class="max-w-md mx-auto my-8 bg-white p-5 rounded-lg border border-gray-200">
+            <div class="text-center">
+                <h1 class="my-3 text-3xl font-semibold text-gray-700 dark:text-gray-200">Contact Me</h1>
+                <p class="text-gray-400 dark:text-gray-400">Fill up the form below to send me a message.</p>
+            </div>
+            <div class="m-7">
+                <form action="https://api.web3forms.com/submit" method="POST" id="form">
+
+                    <input type="hidden" name="apikey" value="a59dd498-dc96-42e6-8be5-c17a5d9218d3">
+                    <input type="hidden" name="subject" value="New Submission from Web3Forms">
+                    <input type="checkbox" name="botcheck" id="" style="display: none;">
+
+
+                    <div class="mb-6">
+                        <label for="name" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Full Name</label>
+                        <input type="text" name="name" id="name" placeholder="John Doe" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" />
+                    </div>
+                    <div class="mb-6">
+                        <label for="email" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Email Address</label>
+                        <input type="email" name="email" id="email" placeholder="you@company.com" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" />
+                    </div>
+                    <div class="mb-6">
+
+                        <label for="phone" class="text-sm text-gray-600 dark:text-gray-400">Phone Number</label>
+                        <input type="text" name="phone" id="phone" placeholder="+1 (555) 1234-567" required class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" />
+                    </div>
+                    <div class="mb-6">
+                        <label for="message" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">Your Message</label>
+
+                        <textarea rows="5" name="message" id="message" placeholder="Your Message" class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500" required></textarea>
+                    </div>
+                    <div class="mb-6">
+                        <button type="submit" class="w-full px-3 py-4 text-white bg-blue rounded-md focus:bg-indigo-600 focus:outline-none">Send Message</button>
+                    </div>
+                    <p class="text-base text-center text-gray-400" id="result">
+                    </p>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="max-w-md mx-auto my-2 bg-white p-5">
+
+</div>
+
+<script>
+const form = document.getElementById('form');
+const result = document.getElementById('result');
+
+form.addEventListener('submit', function(e) {
+    const formData = new FormData(form);
+    e.preventDefault();
+    var object = {};
+    formData.forEach((value, key) => {
+        object[key] = value
+    });
+    var json = JSON.stringify(object);
+    result.innerHTML = "Please wait..."
+
+    fetch('https://api.web3forms.com/submit', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Accept': 'application/json'
+            },
+            body: json
+        })
+        .then(async (response) => {
+            let json = await response.json();
+            if (response.status == 200) {
+                result.innerHTML = json.message;
+                 result.classList.remove('text-gray-500');
+                result.classList.add('text-green-500');
+            } else {
+                console.log(response);
+                result.innerHTML = json.message;
+                 result.classList.remove('text-gray-500');
+                 result.classList.add('text-red-500');
+            }
+        })
+        .catch(error => {
+            console.log(error);
+            result.innerHTML = "Something went wrong!";
+        })
+        .then(function() {
+            form.reset();
+            setTimeout(() => {
+                result.style.display = "none"; 
+            }, 5000);
+        });
+})
+</script>
+        </main>
+    </body><div class="bg-gray-100">
+   <div class="max-w-6xl m-auto text-gray-800 flex flex-wrap justify-left">
+      <div class="p-5 w-80">
+         <div class="text-xs uppercase text-gray-500 font-medium">Blog articles</div>
+        
+      	<a class="my-3 block" href="http://example.com/blog/google-analytics-basics/">Google Analytics Basics<span class="text-blue text-xs p-1"> New</span></a>
+   		 
+         
+      </div>
+      <div class="p-5 w-80">
+         <div class="text-xs uppercase text-gray-500 font-medium">Contact</div>
+         <div class="my-3 block" href="/#">+49 152 2243 6148<span class="text-teal-600 text-xs p-1"></span></div><a class="my-3 block" href="mailto:info@fabianengeln.com">info@fabianengeln.com <span class="text-teal-600 text-xs p-1"></span></a> <a class="my-3 block" href="/contact">Contact form <span class="text-teal-600 text-xs p-1"></span></a>
+      </div>
+   </div>
+</div>
+
+<div class="bg-gray-100 pt-2 ">
+   <div class="flex pb-5 px-3 m-auto pt-5 border-t text-gray-800 text-sm flex-col
+      md:flex-row max-w-6xl">
+      <div class="mt-2">© Copyright 2022. All Rights Reserved.</div>
+      <div class="md:flex-auto md:flex-row-reverse mt-2 flex-row flex">
+      </div>
+   </div>
+</div></html>
