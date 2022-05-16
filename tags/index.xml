@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fabian Engeln</title>
-    <link>http://example.com/tags/</link>
+    <link>https://fabianengeln.github.io/tags/</link>
     <description>Recent content in Tags on Fabian Engeln</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>Copyright © 2022, Fabian Engeln</copyright>
-    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fabianengeln.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>analytics</title>
-      <link>http://example.com/tags/analytics/</link>
+      <link>https://fabianengeln.github.io/tags/analytics/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/analytics/</guid>
+      <guid>https://fabianengeln.github.io/tags/analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>google analytics</title>
-      <link>http://example.com/tags/google-analytics/</link>
+      <link>https://fabianengeln.github.io/tags/google-analytics/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/google-analytics/</guid>
+      <guid>https://fabianengeln.github.io/tags/google-analytics/</guid>
       <description></description>
     </item>
     
