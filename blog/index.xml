@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Fabian Engeln</title>
-    <link>https://fabianengeln.github.io/blog/</link>
+    <link>https://www.fabianengeln.com/blog/</link>
     <description>Recent content in Blog on Fabian Engeln</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>Copyright © 2022, Fabian Engeln</copyright>
-    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fabianengeln.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.fabianengeln.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Analytics Basics</title>
-      <link>https://fabianengeln.github.io/blog/google-analytics-basics/</link>
+      <link>https://www.fabianengeln.com/blog/google-analytics-basics/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fabianengeln.github.io/blog/google-analytics-basics/</guid>
+      <guid>https://www.fabianengeln.com/blog/google-analytics-basics/</guid>
       <description>Install the basic Google Analytics package This can already collect a lot of insights about the end users of a website: Which input channels does the website have? Which pages are called up how often? From which countries and cities do the users come? Which devices do the users use?
 Analyse the data: Now some insights can already be gained: How can the user experience on the website be improved? How can users be kept on the site longer?</description>
     </item>

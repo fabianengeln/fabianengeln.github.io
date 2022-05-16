@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Fabian Engeln</title>
-    <link>https://fabianengeln.github.io/categories/</link>
+    <link>https://www.fabianengeln.com/categories/</link>
     <description>Recent content in Categories on Fabian Engeln</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>Copyright © 2022, Fabian Engeln</copyright><atom:link href="https://fabianengeln.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2022, Fabian Engeln</copyright><atom:link href="https://www.fabianengeln.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
