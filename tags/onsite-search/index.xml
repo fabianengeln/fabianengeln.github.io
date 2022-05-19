@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Fabian Engeln</title>
-    <link>https://www.fabianengeln.com/blog/</link>
-    <description>Recent content in Blog on Fabian Engeln</description>
+    <title>onsite search on Fabian Engeln</title>
+    <link>https://www.fabianengeln.com/tags/onsite-search/</link>
+    <description>Recent content in onsite search on Fabian Engeln</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>Copyright © 2022, Fabian Engeln</copyright>
-    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.fabianengeln.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.fabianengeln.com/tags/onsite-search/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cornerstones of onsite Search and Merchandising</title>
       <link>https://www.fabianengeln.com/blog/cornerstones-of-onsite-search-and-merchandising/</link>
@@ -15,16 +15,6 @@
       
       <guid>https://www.fabianengeln.com/blog/cornerstones-of-onsite-search-and-merchandising/</guid>
       <description>In the online competition for traffic and conversion, companies must implement sustainable strategies in order to survive in the market. An essential part of this strategy is the search function in the online shop, and the way products are presented to the customer. In this article, I describe what makes the difference in successful Search &amp;amp; Merchandising in e-commerce. During recent years, I have supported companies throughout Europe in the implementation of numerous e-commerce projects, with the focus to add value by enabling a mature Search &amp;amp; Merchandising function.</description>
-    </item>
-    
-    <item>
-      <title>Google Analytics Basics</title>
-      <link>https://www.fabianengeln.com/blog/google-analytics-basics/</link>
-      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.fabianengeln.com/blog/google-analytics-basics/</guid>
-      <description>Install the basic Google Analytics package This can already collect a lot of insights about the end users of a website:
- Which input channels does the website have? Which pages are called up how often? From which countries and cities do the users come? Which devices do the users use?  Based on your frontend template, you can implement this by simply adding the standard GA JavaScript snippet to the page.</description>
     </item>
     
   </channel>
