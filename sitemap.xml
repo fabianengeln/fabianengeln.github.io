@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.fabianengeln.com/blog/cornerstones-of-onsite-search-and-merchandising/</loc>
-    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.fabianengeln.com/tags/e-commerce/</loc>
     <lastmod>2022-05-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,15 +23,6 @@
     <loc>https://www.fabianengeln.com/tags/trends/</loc>
     <lastmod>2022-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.fabianengeln.com/tags/analytics/</loc>
-    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.fabianengeln.com/tags/google-analytics/</loc>
-    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.fabianengeln.com/blog/google-analytics-basics/</loc>
-    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.fabianengeln.com/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -43,6 +31,30 @@
   </url><url>
     <loc>https://www.fabianengeln.com/contact/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.fabianengeln.com/blog/cornerstones-of-onsite-search-and-merchandising/</loc>
+    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.fabianengeln.com/tags/analytics/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.fabianengeln.com/tags/google-analytics/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.fabianengeln.com/blog/google-analytics-basics/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.fabianengeln.com/tags/conference/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.fabianengeln.com/blog/mices-talk-solving-the-e-commerce-search-challenge/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.fabianengeln.com/tags/presentation/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.fabianengeln.com/tags/talk/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.fabianengeln.com/categories/</loc>
   </url>

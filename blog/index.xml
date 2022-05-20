@@ -9,15 +9,6 @@
     <copyright>Copyright © 2022, Fabian Engeln</copyright>
     <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.fabianengeln.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cornerstones of onsite Search and Merchandising</title>
-      <link>https://www.fabianengeln.com/blog/cornerstones-of-onsite-search-and-merchandising/</link>
-      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.fabianengeln.com/blog/cornerstones-of-onsite-search-and-merchandising/</guid>
-      <description>In the online competition for traffic and conversion, companies must implement sustainable strategies in order to survive in the market. An essential part of this strategy is the search function in the online shop, and the way products are presented to the customer. In this article, I describe what makes the difference in successful Search &amp;amp; Merchandising in e-commerce. During recent years, I have supported companies throughout Europe in the implementation of numerous e-commerce projects, with the focus to add value by enabling a mature Search &amp;amp; Merchandising function.</description>
-    </item>
-    
-    <item>
       <title>Three trends in Search and Merchandising</title>
       <link>https://www.fabianengeln.com/blog/three-trends-in-search-and-merchandising/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
@@ -28,13 +19,32 @@ Innovative technologies open up new opportunities to address potential customers
     </item>
     
     <item>
+      <title>Cornerstones of onsite Search and Merchandising</title>
+      <link>https://www.fabianengeln.com/blog/cornerstones-of-onsite-search-and-merchandising/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabianengeln.com/blog/cornerstones-of-onsite-search-and-merchandising/</guid>
+      <description>In the online competition for traffic and conversion, companies must implement sustainable strategies in order to survive in the market. An essential part of this strategy is the search function in the online shop, and the way products are presented to the customer. In this article, I describe what makes the difference in successful Search &amp;amp; Merchandising in e-commerce. During recent years, I have supported companies throughout Europe in the implementation of numerous e-commerce projects, with the focus to add value by enabling a mature Search &amp;amp; Merchandising function.</description>
+    </item>
+    
+    <item>
       <title>Google Analytics Basics</title>
       <link>https://www.fabianengeln.com/blog/google-analytics-basics/</link>
-      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.fabianengeln.com/blog/google-analytics-basics/</guid>
       <description>Install the basic Google Analytics package This can already collect a lot of insights about the end users of a website:
  Which input channels does the website have? Which pages are called up how often? From which countries and cities do the users come? Which devices do the users use?  Based on your frontend template, you can implement this by simply adding the standard GA JavaScript snippet to the page.</description>
+    </item>
+    
+    <item>
+      <title>MICES Talk: Solving the E-Commerce Search Challenge</title>
+      <link>https://www.fabianengeln.com/blog/mices-talk-solving-the-e-commerce-search-challenge/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabianengeln.com/blog/mices-talk-solving-the-e-commerce-search-challenge/</guid>
+      <description>The search conference The Mix-Camp E-Commerce search is an &amp;ldquo;informal one-day event to bring together experts of different backgrounds - such as IT, product managers, UX designers, search managers, information retrieval specialists, data scientists, search engine vendors - to discuss challenges, ideas, best practices, and case studies in the e-commerce search domain.&amp;rdquo; (see: MICES).
+At the time I was working as Senior Search Consultant at foryouandyourcustomers. On the conference, I used my many years of experience in the field of onsite search and merchandising to talk about the challenge for companies to provide a conclusive e-commerce search.</description>
     </item>
     
   </channel>
