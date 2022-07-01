@@ -44,7 +44,7 @@ Innovative technologies open up new opportunities to address potential customers
       
       <guid>https://www.fabianengeln.com/blog/google-analytics-basics/</guid>
       <description>Install the basic Google Analytics package This can already collect a lot of insights about the end users of a website:
- Which input channels does the website have? Which pages are called up how often? From which countries and cities do the users come? Which devices do the users use?  Based on your frontend template, you can implement this by simply adding the standard GA JavaScript snippet to the page.</description>
+Which input channels does the website have? Which pages are called up how often? From which countries and cities do the users come? Which devices do the users use? Based on your frontend template, you can implement this by simply adding the standard GA JavaScript snippet to the page. In Google Analytics 4, the steps are the following:</description>
     </item>
     
     <item>
