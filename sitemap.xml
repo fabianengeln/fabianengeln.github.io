@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.fabianengeln.com/blog/session-tracking-in-google-analytics-for-in-depth-customer-journey-analyses/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.fabianengeln.com/blog/e-commerce-conversion-rate-optimisation/</loc>
     <lastmod>2022-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>

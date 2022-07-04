@@ -9,6 +9,16 @@
     <copyright>Copyright © 2022, Fabian Engeln</copyright>
     <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.fabianengeln.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Session Tracking in Google Analytics for in-depth Customer Journey Analyses</title>
+      <link>https://www.fabianengeln.com/blog/session-tracking-in-google-analytics-for-in-depth-customer-journey-analyses/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabianengeln.com/blog/session-tracking-in-google-analytics-for-in-depth-customer-journey-analyses/</guid>
+      <description>My clients often ask me the following questions:
+How can I view certain events like add to baskets along with other actions of the customers in the same session? What are the pain points the site users are facing and how can I understand their customer journey better? What are the site journeys which ultimately lead to a conversion? With standard Google Analytics tracking, this is not as easy to answer.</description>
+    </item>
+    
+    <item>
       <title>E-Commerce Conversion Rate Optimisation</title>
       <link>https://www.fabianengeln.com/blog/e-commerce-conversion-rate-optimisation/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
